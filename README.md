@@ -169,5 +169,5 @@ I am maintaining my software developing journey, which I started with coding Leg
 <br/>
 <h2>Github Stats</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=boz-yusuf&theme=monokai)](https://git.io/streak-stats)
-[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boz-Yusuf&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=boz-yusuf&theme=react)](https://git.io/streak-stats)
+[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boz-Yusuf&theme=react)](https://github.com/anuraghazra/github-readme-stats)
