@@ -171,3 +171,6 @@ I am maintaining my software developing journey, which I started with coding Leg
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=boz-yusuf&theme=react)](https://git.io/streak-stats)
 [![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boz-Yusuf&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
