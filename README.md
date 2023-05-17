@@ -1,6 +1,7 @@
 # Hi 👋, I am Yusuf from Turkey
 ## Web Developer
-
+My first acquainment with software developing stated when I joined Aviation and Space Club in high school. 
+I am maintaining my software developing journey, which I started with coding Lego NXT and Arduino in high school years, with web development on the frontend and backend.
 
 
 <h3 align="left">Frontend Skills:</h3>
