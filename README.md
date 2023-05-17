@@ -1,5 +1,7 @@
 # Hi 👋, I am Yusuf from Turkey
 ## Web Developer
+
+
 My first acquainment with software developing stated when I joined Aviation and Space Club in high school. 
 I am maintaining my software developing journey, which I started with coding Lego NXT and Arduino in high school years, with web development on the frontend and backend.
 
@@ -189,27 +191,10 @@ I am maintaining my software developing journey, which I started with coding Leg
   /></a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=boz-yusuf&show_icons=true&locale=en&layout=compact"
-    alt="boz-yusuf"
-  />
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=boz-yusuf&show_icons=true&locale=en"
-    alt="boz-yusuf"
-  />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Boz-Yusuf)](https://git.io/streak-stats)
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=boz-yusuf&"
-    alt="boz-yusuf"
-  />
-</p>
+
+
 
