@@ -171,11 +171,11 @@ I am maintaining my software developing journey, which I started with coding Leg
 <div style="display: flex; justify-content: center;">
   <h2>Streak Stats</h2>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=boz-yusuf&theme=react" alt="GitHub Streak" style="width: 50%;" />
+    <img src="https://streak-stats.demolab.com?user=boz-yusuf&theme=react" alt="GitHub Streak" style="width: 450px;" />
   </a>
   <h2>GitHub Profile Stats</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats" >
-    <img src="https://github-readme-stats.vercel.app/api?username=Boz-Yusuf&theme=react" alt="Yusuf's GitHub stats" style="width: 50%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Boz-Yusuf&theme=react" alt="Yusuf's GitHub stats" style="width: 450px;" />
   </a>
 </div>
 
