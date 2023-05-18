@@ -171,14 +171,15 @@ I am maintaining my software developing journey, which I started with coding Leg
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=boz-yusuf&theme=react)](https://git.io/streak-stats)
 [![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boz-Yusuf&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=boz-yusuf&theme=react" alt="GitHub Streak" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Boz-Yusuf&theme=react" alt="Yusuf's GitHub stats" />
-    </a>
+<div style="display: flex; justify-content: center;">
+  <a href="https://git.io/streak-stats" style="margin-right: 20px;">
+    <img src="https://streak-stats.demolab.com?user=boz-yusuf&theme=react" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Boz-Yusuf&theme=react" alt="Yusuf's GitHub stats" />
+  </a>
 </div>
+
 
 
 
