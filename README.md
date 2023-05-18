@@ -167,21 +167,16 @@ I am maintaining my software developing journey, which I started with coding Leg
 </p>
 
 <br/>
-<h2>Github Stats</h2>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=boz-yusuf&theme=react)](https://git.io/streak-stats)
-[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boz-Yusuf&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: flex; justify-content: center;">
-  <a href="https://git.io/streak-stats" style="width: 400px;">
-    <img src="https://streak-stats.demolab.com?user=boz-yusuf&theme=react" alt="GitHub Streak" style="width: 100%; height: auto; object-fit: contain;" />
+  <h2>Github Stats</h2>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=boz-yusuf&theme=react" alt="GitHub Streak" style="width: 50%;" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Boz-Yusuf&theme=react" alt="Yusuf's GitHub stats" style="width: 100%; height: auto; object-fit: contain;" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=Boz-Yusuf&theme=react" alt="Yusuf's GitHub stats" style="width: 50%;" />
   </a>
 </div>
-
-
 
 
 
