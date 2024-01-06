@@ -99,14 +99,6 @@ I am maintaining my software developing journey, which I started with coding Leg
     width="40"
     height="40"
   />
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
